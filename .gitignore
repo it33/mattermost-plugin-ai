@@ -1,4 +1,5 @@
 dist/
+models/
 
 # Mac
 .DS_Store
